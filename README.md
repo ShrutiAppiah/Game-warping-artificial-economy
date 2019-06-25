@@ -1,4 +1,4 @@
-# Game warping in an artificial bot-based economy
+# Game warping in an artificial bot economy
 Game theoretic equilibria can be shifted by players through transparent, strictly enforceable, and frictionless agreements between themselves. 
 Today, this is possible with smart contracts deployed on Turing-complete blockchains such as Ethereum. 
 
