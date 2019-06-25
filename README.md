@@ -8,5 +8,5 @@ enforceable contracts between players. However, this is plausible with the adven
 understand artifical economies and the human-inconceivable stratgies that may emerge through artificially intelligent bot game players.
 
 ## Literature
-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2243767
-- https://cs.gmu.edu/~eclab/papers/panait05cooperative.pdf
+- [Game Mining: How to Make Money from Those About to Play a Game](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2243767)
+- [Cooperative Multi-Agent Learning: The State of the Art](https://cs.gmu.edu/~eclab/papers/panait05cooperative.pdf) 
